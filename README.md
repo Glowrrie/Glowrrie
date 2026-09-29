@@ -129,7 +129,7 @@ Practical database-testing exercises using SQL/MySQL.
 
 ---
 
-## 🎓 Training & Certifications
+## 🎓 Trainings
 
 **Software Quality Assurance — SQA Marshal Academy**
 
